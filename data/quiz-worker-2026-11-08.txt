@@ -49,3 +49,6 @@ A: PlayStation - Science: Gadgets
 Auto Quiz - Computer 🧠
 Q: How many French Open's did Björn Borg win?
 A: 6 - Sports
+Auto Quiz - Book 🧠
+Q: Which of the following games in the The Legend of Zelda franchise was released in Japan before North America?
+A: The Legend of Zelda: The Minish Cap - Entertainment: Video Games
