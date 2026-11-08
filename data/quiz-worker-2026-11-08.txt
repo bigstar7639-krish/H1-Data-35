@@ -118,3 +118,6 @@ A: Non-impact printer - Science: Computers
 Auto Quiz - Sea 🧠
 Q: What port does HTTP run on?
 A: 80 - Science: Computers
+Auto Quiz - Mountain 🧠
+Q: Gannymede is the largest moon of which planet?
+A: Jupiter - Science & Nature
