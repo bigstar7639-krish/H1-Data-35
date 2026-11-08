@@ -10,3 +10,6 @@ A: LB&SCR A1X - Vehicles
 Auto Quiz - Night 🧠
 Q: What was the third country to have a McDonald's restaurant?
 A: Costa Rica - General Knowledge
+Auto Quiz - Home 🧠
+Q: How many cores does the Intel i7-6950X have?
+A: 10 - Science: Computers
