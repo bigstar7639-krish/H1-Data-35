@@ -91,3 +91,6 @@ A: 74 - Celebrities
 Auto Quiz - Cat 🧠
 Q: When was Nintendo founded?
 A: September 23rd, 1889 - General Knowledge
+Auto Quiz - Dog 🧠
+Q: Trypophobia is the fear of 
+A: groups of holes - General Knowledge
