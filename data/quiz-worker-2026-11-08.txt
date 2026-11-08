@@ -55,3 +55,6 @@ A: The Legend of Zelda: The Minish Cap - Entertainment: Video Games
 Auto Quiz - Kavithai 🧠
 Q: The Harvard architecture for micro-controllers added which additional bus?
 A: Instruction - Science: Computers
+Auto Quiz - Thirukkural 🧠
+Q: In World of Warcraft, What was the name of the spell that caused a plague that famously killed millions of players in 2005?
+A: Corrupted Blood - Entertainment: Video Games
