@@ -112,3 +112,6 @@ A: MEKA - Entertainment: Video Games
 Auto Quiz - Movie 🧠
 Q: Which team won 2014 FIFA World Cup in Brazil?
 A: Germany - Sports
+Auto Quiz - Temple 🧠
+Q: Laserjet and inkjet printers are both examples of what type of printer?
+A: Non-impact printer - Science: Computers
