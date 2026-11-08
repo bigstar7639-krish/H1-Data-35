@@ -52,3 +52,6 @@ A: 6 - Sports
 Auto Quiz - Book 🧠
 Q: Which of the following games in the The Legend of Zelda franchise was released in Japan before North America?
 A: The Legend of Zelda: The Minish Cap - Entertainment: Video Games
+Auto Quiz - Kavithai 🧠
+Q: The Harvard architecture for micro-controllers added which additional bus?
+A: Instruction - Science: Computers
