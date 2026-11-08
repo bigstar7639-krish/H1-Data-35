@@ -115,3 +115,6 @@ A: Germany - Sports
 Auto Quiz - Temple 🧠
 Q: Laserjet and inkjet printers are both examples of what type of printer?
 A: Non-impact printer - Science: Computers
+Auto Quiz - Sea 🧠
+Q: What port does HTTP run on?
+A: 80 - Science: Computers
