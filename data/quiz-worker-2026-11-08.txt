@@ -121,3 +121,6 @@ A: 80 - Science: Computers
 Auto Quiz - Mountain 🧠
 Q: Gannymede is the largest moon of which planet?
 A: Jupiter - Science & Nature
+Auto Quiz - River 🧠
+Q: Who provided a majority of the songs and lyrics for "Spirit: Stallion of the Cimarron"?
+A: Bryan Adams - Entertainment: Film
